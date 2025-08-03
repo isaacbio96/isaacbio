@@ -1,0 +1,53 @@
+.loader {
+    display: none;
+    color: white;
+    text-align: center;
+    margin: auto;
+    margin-top: 16px;
+    padding-left: 16px;
+    padding-right: 16px;
+    border-radius: 6px; 
+}
+
+.loader.show {
+    display: block;
+}
+
+.loader i {
+    color: #fff;
+    animation: rotateme .4s linear infinite;
+}
+
+/* Loader Animation */
+@keyframes rotateme {
+    0% {
+       transform: rotate(0deg); 
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+.form-message {
+    display: none;
+    text-align: center;
+    margin: auto;
+    margin-top: 10px;
+    text-align: center;
+    font-weight: 600;
+}
+
+.form-message.show {
+    display: block;
+}
+
+.success-msg {
+    color: green;
+    line-height: 3;
+}
+
+.error-msg {
+    color: red;
+    line-height: 3;
+}
