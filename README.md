@@ -1,4 +1,5 @@
-🧑‍💻 Isaac Biobaku – Junior Front-End Developer Portfolio
+🧑‍💻 Isaac Biobaku – Junior Front-End Developer Portfolio.
+
 Welcome to my README section for my personal portfolio website! This site showcases who I am, the skills I bring to the table, and the front-end projects I’ve built using modern web development tools and responsive design practices.
 
 📌 About This Portfolio
